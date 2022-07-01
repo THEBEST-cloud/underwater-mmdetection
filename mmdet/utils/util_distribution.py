@@ -22,7 +22,8 @@ def build_dp(model, device='cuda', dim=0, *args, **kwargs):
         nn.Module: the model to be parallelized.
     """
     if device == 'cuda':
-        model = model.cuda()
+        # model = model.cuda()
+        model = model.to(torch.device("cuda:" + "5"))
     elif device == 'mlu':
         from mmcv.device.mlu import MLUDataParallel
         dp_factory['mlu'] = MLUDataParallel

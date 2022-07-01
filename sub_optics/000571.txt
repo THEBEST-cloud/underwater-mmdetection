@@ -1,0 +1,7 @@
+holothurian,557,98,711,159,1.00
+holothurian,320,119,402,149,0.99
+holothurian,131,251,218,297,0.98
+holothurian,350,1,380,27,0.69
+holothurian,320,5,357,35,0.43
+starfish,393,66,438,102,1.00
+starfish,287,15,324,42,0.96

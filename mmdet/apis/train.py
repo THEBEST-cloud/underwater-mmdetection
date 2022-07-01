@@ -131,6 +131,9 @@ def train_detector(model,
     runner_type = 'EpochBasedRunner' if 'runner' not in cfg else cfg.runner[
         'type']
 
+    print("#########################################",cfg.gpu_ids)
+    print("#########################################",cfg.device)
+
     train_dataloader_default_args = dict(
         samples_per_gpu=2,
         workers_per_gpu=2,

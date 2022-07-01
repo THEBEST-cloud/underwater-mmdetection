@@ -156,7 +156,7 @@ def main():
                       'single GPU mode in non-distributed training. '
                       'Use `gpus=1` now.')
     if args.gpu_ids is not None:
-        cfg.gpu_ids = args.gpu_ids[0:1]
+        cfg.gpu_ids = args.gpu_ids[6:7]
         warnings.warn('`--gpu-ids` is deprecated, please use `--gpu-id`. '
                       'Because we only support single GPU mode in '
                       'non-distributed training. Use the first GPU '

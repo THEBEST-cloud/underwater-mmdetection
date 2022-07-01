@@ -1,0 +1,12 @@
+holothurian,503,8,720,81,0.99
+holothurian,51,32,222,120,0.93
+holothurian,259,0,384,131,0.92
+holothurian,317,18,434,203,0.89
+holothurian,456,0,552,52,0.88
+holothurian,174,2,288,84,0.86
+holothurian,214,0,441,177,0.83
+holothurian,446,0,629,41,0.61
+holothurian,57,2,366,122,0.60
+holothurian,93,1,315,73,0.60
+holothurian,127,0,262,59,0.54
+scallop,279,186,510,399,0.99

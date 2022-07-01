@@ -1,0 +1,4 @@
+holothurian,446,95,503,142,0.95
+holothurian,294,248,345,304,0.94
+holothurian,331,201,367,270,0.85
+holothurian,436,125,462,169,0.61
